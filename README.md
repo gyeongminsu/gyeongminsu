@@ -1,11 +1,4 @@
-## Hi there 👋
----
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
-
-![github_profile.jpg](/assets/img/github_profile.jpg)
+![github_profile.jpg](/github_profile.jpg)
 Hi. I am Minsoo-Gyeong, B.S pursuing Student of Computer Science(5th semester) in University of Seoul.
 
 I am currently focusing my attention on the development of Artificial Intelligence models, including natural language processing and multi-modal.
@@ -21,6 +14,7 @@ The link to my social site is as follows.
 - Github : [https://github.com/gyeongminsu](https://github.com/gyeongminsu)
 - Linkedin : [https://www.linkedin.com/in/민수-경-73b487246/](https://www.linkedin.com/in/%EB%AF%BC%EC%88%98-%EA%B2%BD-73b487246/)
 - Instagram : [https://www.instagram.com/minsoog_official/](https://www.instagram.com/minsoog_official/)
+- blog : [https://gyeongminsu.github.io/](https://gyeongminsu.github.io/)
 
 Thank you so much for visiting my page! 😃
 
