@@ -3,7 +3,7 @@ Hi. I am Minsoo-Gyeong, B.S pursuing Student of Computer Science(5th semester) i
 
 I am currently focusing my attention on the development of Artificial Intelligence models, including Natural Language Processing, Generative model and Multi-modal.
 
-As part of that, I am currently working at NLP Lab advised by Prof. Kyungjae Lee in University of Seoul.
+As part of that, I am currently working at [Natural Language Computing Lab](https://nlc-uos.github.io/) advised by Prof. Kyungjae Lee in University of Seoul.
 
 and i did an undergraduate internship at [the Intelligent Big Data Lab of the Urban Big Data Convergence Department](https://intelligent-big-data-lab.notion.site/). February 2024 ~ May 2024.
 
@@ -20,7 +20,7 @@ Thank you so much for visiting my page! 😃
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgyeongminsu&count_bg=%236D7F88&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-Last Updated : _30. May. 2024_
+Last Updated : _29. August. 2024_
 <!--
 **gyeongminsu/gyeongminsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
