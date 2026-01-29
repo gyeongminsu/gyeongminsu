@@ -7,7 +7,7 @@ As part of that, I am currently working at [Natural Language Computing Lab](http
 
 And From July 2023 to July 2024, I had been working as the 20th Vice Club President of [Tobig’s, the AI & Big data Union Academic Club in Korea](https://tobigs-datamarket.github.io/).
 
-Finally, I am also very interested in the philosophy of science(e.g. Scientific Realism/Anti-Realism, Kuhn's Normal Science).
+Aditionally, I am also very interested in the philosophy (Philosophy of science, Epistemic philosophy, Continental philosophy, Analitic philsophy).
 
 The link to my social site is as follows.
 
